@@ -6,4 +6,6 @@
 ## Use case 
 
 - To pedict Images
+
+## Deployment
 >> Try the web app : https://huggingface.co/spaces/SSahas/vgg16_imagerecog
