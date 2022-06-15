@@ -1,0 +1,5 @@
+keras 
+numpy
+Pillow==8.0.1
+click==7.1.2
+tensorflow-cpu
