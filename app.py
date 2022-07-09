@@ -4,10 +4,9 @@ import numpy as np
 from keras.preprocessing import image
 import tensorflow.keras.preprocessing.image
 from keras.applications import vgg16
-#import pickle
+
 from PIL import Image
 st.title('Image Classifier using vgg16 api')
-#st.text('Upload the Image')
 
 
 @st.cache
